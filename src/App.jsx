@@ -1,13 +1,13 @@
 
 import './App.css'
-import Counter from './components/Counter'
+import AllProducts from './components/AllProducts'
 
 function App() {
 
 
   return (
     <>
-      APP
+      <AllProducts />
     </>
   )
 }

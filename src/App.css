@@ -4,14 +4,3 @@
   box-sizing: border-box;
 }
 
-body {
-  font-size: 3rem;
-}
-
-button{
-  font-size: 3.1rem;
-  margin: 10px;
-  padding: 20px 10px;
-  border-radius: 10px;
-  background-color: #83edbb;
-}
